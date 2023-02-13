@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React_dweep_assign1/static/css/main.ad52ca57.css",
+    "main.js": "/React_dweep_assign1/static/js/main.9a1a37ee.js",
+    "static/media/Vector.png": "/React_dweep_assign1/static/media/Vector.135e38a157bbd6e02191.png",
+    "index.html": "/React_dweep_assign1/index.html",
+    "main.ad52ca57.css.map": "/React_dweep_assign1/static/css/main.ad52ca57.css.map",
+    "main.9a1a37ee.js.map": "/React_dweep_assign1/static/js/main.9a1a37ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad52ca57.css",
+    "static/js/main.9a1a37ee.js"
+  ]
+}
